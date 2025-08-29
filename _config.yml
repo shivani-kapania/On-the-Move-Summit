@@ -4,4 +4,5 @@ theme: just-the-docs
 
 url: https://shivani-kapania.github.io/on-the-move
 
-
+sass:
+  custom_css: _sass/custom/custom.scss
