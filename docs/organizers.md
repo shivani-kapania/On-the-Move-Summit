@@ -34,7 +34,7 @@ nav_order: 2
 <br> 
 <br>
 
-**About the ReDDDoT Team: **
+**About the ReDDDoT Team:**
 
 This event is being facilitated by Sarah Fox (Carnegie Mellon University), Lilly Irani (University of California, San Diego), and Nantina Vgontzas (City University of New York), with support from the National Science Foundation’s Responsible Design, Development, and Deployment of Technologies (ReDDDoT) program. Any potential output from the workshop will abide by protocols approved by our respective universities’ Institutional Review Boards. Our aim is to share findings that are useful for workers, organizers, and policymakers. We will take notes during the workshop with participant consent and with the understanding that certain content, such as sensitive strategic analysis or campaign information, is to remain private. Individual identities will not be disclosed unless requested, and potential policy or academic documents will be shared with participating groups for review and feedback prior to publication. 
 
