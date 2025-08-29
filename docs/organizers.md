@@ -5,6 +5,9 @@ nav_order: 2
 ---
 
 # Organizers
+<br>
+<br>
+<br>
 
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; justify-content: center; align-items: center;">
 
